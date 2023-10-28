@@ -1,0 +1,3 @@
+Cambio 1: Requerimiento 1. El mismo pasa a llamarse "Postular curso" y se agregó al error handling el hecho de que el docente no haya sido dado de alta en el sistema. La función principal de este requerimiento es postularse (asumiendo que ya haya sido dado de alta) y el resto es secundario o se maneja en los error handling. Tomemos de ejemplo los TPs anteriores, donde el alta del cliente era un error handling, algo secundario, y que el requerimiento se centra principalmente en la funcionalidad del programa y no en ABMLs. 
+
+Cambio 2: Descripción, Proceso, Inputs (revisarlos, por favor)
